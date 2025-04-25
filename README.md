@@ -1,2 +1,5 @@
 # Personal-Banking-System
-A beginner oops project created using python.
+Personal Bnaking System project created using Python oops.
+
+## Project requirements
+- Python
